@@ -1,0 +1,1 @@
+java -jar Trimmomatic-0.39/trimmomatic-0.39.jar PE hcc1395_normal_rep1_r1.fastq hcc1395_normal_rep1_r2.fastq -baseout sampler1.fq LEADING:30 TRAILING:30 HEADCROP:15 MINLEN:40
