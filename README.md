@@ -1,1 +1,2 @@
 # Trimmomatic
+command in terminal
